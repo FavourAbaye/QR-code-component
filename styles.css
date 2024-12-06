@@ -9,8 +9,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
     padding: 10px 10px;
     height: 100vh;
 }
@@ -56,7 +54,7 @@ img {
     font-size: 11px; 
     text-align: center;
     font-family: sans-serif; 
-    margin-top: rem;
+    margin-top: 8rem;
 }
 
 
